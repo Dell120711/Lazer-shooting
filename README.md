@@ -10,11 +10,15 @@
 ### 說明影片
 [![Demo](https://img.youtube.com/vi/kdUIe57TvIk/default.jpg)](https://www.youtube.com/watch?v=kdUIe57TvIk)
 
-### 實際遊玩影片
+### 遊玩影片
 [![Demo](https://img.youtube.com/vi/jy8fdRwzjIE/default.jpg)](https://www.youtube.com/watch?v=jy8fdRwzjIE)
 
+https://youtu.be/8neggGq50Pw
+
+
+
 ## 電路圖
-![alt text](img width="3567" height="3543" alt="image" src="https://github.com/user-attachments/assets/3c0514d3-b59e-47f1-9cc0-cd69418e0145")
+<img width="3567" height="3543" alt="image" src="https://github.com/user-attachments/assets/176fede6-12f1-4240-9272-7858d8eaadea" />
 
 ## 程式碼說明
 ### 炮台控制
