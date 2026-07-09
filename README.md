@@ -14,7 +14,7 @@
 [![Demo](https://img.youtube.com/vi/jy8fdRwzjIE/default.jpg)](https://www.youtube.com/watch?v=jy8fdRwzjIE)
 
 ## 電路圖
-![alt text](image/curit.png)
+![alt text](<img width="3567" height="3543" alt="image" src="https://github.com/user-attachments/assets/3c0514d3-b59e-47f1-9cc0-cd69418e0145" />)
 
 ## 程式碼說明
 ### 炮台控制
