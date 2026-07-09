@@ -1,20 +1,9 @@
-# 聖誕節雷射遊戲
-
-## 團隊成員
-* 1112923 徐聖凱
-* 1112914 宋冠穎
-* 1112919 丁柏凱
-* 1112932 高鉦凱
+# 雷射遊戲
 
 ## Demo 影片
 ### 說明影片
-[![Demo](https://img.youtube.com/vi/kdUIe57TvIk/default.jpg)](https://www.youtube.com/watch?v=kdUIe57TvIk)
 
 ### 遊玩影片
-[![Demo](https://img.youtube.com/vi/jy8fdRwzjIE/default.jpg)](https://www.youtube.com/watch?v=jy8fdRwzjIE)
-
-[https://youtu.be/8neggGq50Pw](https://www.youtube.com/watch?v=8neggGq50Pw)
-
 
 [![Demo](https://img.youtube.com/vi/8neggGq50Pw/0.jpg)](https://youtu.be/8neggGq50Pw)
 
