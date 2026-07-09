@@ -16,7 +16,7 @@
 [https://youtu.be/8neggGq50Pw](https://www.youtube.com/watch?v=8neggGq50Pw)
 
 
-[![觀看說明影片](https://img.youtube.com/vi/8neggGq50Pw/0.jpg)](https://youtu.be/8neggGq50Pw)
+[![Demo](https://img.youtube.com/vi/8neggGq50Pw/0.jpg)](https://youtu.be/8neggGq50Pw)
 
 ## 電路圖
 <img width="3567" height="3543" alt="image" src="https://github.com/user-attachments/assets/176fede6-12f1-4240-9272-7858d8eaadea" />
