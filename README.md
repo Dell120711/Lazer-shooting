@@ -1,10 +1,20 @@
-# 雷射遊戲
+# 聖誕節雷射遊戲
 
+## 團隊成員
+* 1112923 徐聖凱
+* 1112914 宋冠穎
+* 1112919 丁柏凱
+* 1112932 高鉦凱
 
+## Demo 影片
+### 說明影片
+[![Demo](https://img.youtube.com/vi/kdUIe57TvIk/default.jpg)](https://www.youtube.com/watch?v=kdUIe57TvIk)
+
+### 實際遊玩影片
+[![Demo](https://img.youtube.com/vi/jy8fdRwzjIE/default.jpg)](https://www.youtube.com/watch?v=jy8fdRwzjIE)
 
 ## 電路圖
-<img width="3567" height="3543" alt="image" src="https://github.com/user-attachments/assets/3c0514d3-b59e-47f1-9cc0-cd69418e0145" />
-
+![alt text](image/curit.png)
 
 ## 程式碼說明
 ### 炮台控制
