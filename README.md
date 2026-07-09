@@ -2,6 +2,7 @@
 
 ## Demo 影片
 ### 說明影片
+[![說明影片](https://img.youtube.com/vi/zx50Lq-5Ee8/0.jpg)](https://www.youtube.com/watch?v=zx50Lq-5Ee8)
 
 ### 遊玩影片
 
