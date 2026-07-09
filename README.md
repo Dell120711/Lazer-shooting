@@ -13,8 +13,8 @@
 ### 遊玩影片
 [![Demo](https://img.youtube.com/vi/jy8fdRwzjIE/default.jpg)](https://www.youtube.com/watch?v=jy8fdRwzjIE)
 
-https://youtu.be/8neggGq50Pw
-
+[![Demo]https://youtu.be/8neggGq50Pw
+](https://www.youtube.com/watch?v=8neggGq50Pw)
 
 
 ## 電路圖
